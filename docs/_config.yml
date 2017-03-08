@@ -4,7 +4,7 @@ email:
 author:      Cole Hudson
 description: "Scraps of Words and Code"
 baseurl:     "/blog"
-url:         "https://colehudson.org"
+url:         "https://www.colehudson.org"
 date_format: "%b %-d, %Y"
 
 # Google services
