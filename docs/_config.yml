@@ -1,8 +1,8 @@
 # Site settings
-title:       Blog
-email:       cole.hudson@live.com
+title:       Scraps of Words and Code
+email:       
 author:      Cole Hudson
-description: "My Blog"
+description: "Scraps of Words and Code"
 baseurl:     "/blog"
 url:         "https://colehudson.org"
 date_format: "%b %-d, %Y"
@@ -42,10 +42,10 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: colehudson
 bitbucket_username:
-stackoverflow_id:
-twitter_username:
+stackoverflow_id: 1483234
+twitter_username: colehud
 skype_username:
 steam_nickname:
 google_plus_id:
@@ -59,15 +59,15 @@ flattr_button:
 # Post sharing icons
 show_sharing_icons: false
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
+share_facebook: true
+share_twitter: true
 share_googleplus: false
-share_linkedin: false
+share_linkedin: true
 share_digg: false
 share_tumblr: false
-share_reddit: false
+share_reddit: true
 share_stumbleupon: false
-share_hackernews: false
+share_hackernews: true
 
 text:
   pagination:
