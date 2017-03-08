@@ -1,0 +1,13 @@
+*.gem
+*.swp
+*~
+_site
+.sass-cache
+.DS_Store
+.jekyll-metadata
+.bundle
+Gemfile.lock
+CNAME
+Rakefile
+_drafts
+vendor
