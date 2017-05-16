@@ -1,10 +1,13 @@
 ---
-layout:     post
-title:      Varnish - Set Cache to Expire at Midnight
-date:       2017-03-03 12:31:19
-summary:    Setting a Varnish cache to expire at midnight
+layout: post
+title: Varnish - Set Cache to Expire at Midnight
+date: {}
+summary: Setting a Varnish cache to expire at midnight
 categories: Varnish midnight cache expiration
+published: true
 ---
+## Burning the Midnight Oil (with Web Caching)
+
 
 Configuring Varnish can be a tricky thing. I learned just how tricky when I needed to set my cached objects to expire at midnight each night. Much of the learning curve here came from having to learn the Varnish Configuration Language (VCL). The [Varnish Standard Module documentation](https://varnish-cache.org/docs/trunk/reference/vmod_std.generated.html) came in handy here, as I had to use built-in functions from std to do a bit of type juggling while I made my calcuations.
 
