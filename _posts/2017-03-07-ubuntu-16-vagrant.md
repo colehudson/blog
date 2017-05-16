@@ -1,10 +1,12 @@
 ---
-layout:     post
-title:      Vagrant and Ubuntu 16.04
-date:       2017-03-07 12:31:19
-summary:    Changing over to Ubuntu 16.04 in Vagrant isn't so easy
+layout: post
+title: Vagrant and Ubuntu 16.04
+date: {}
+summary: Changing over to Ubuntu 16.04 in Vagrant isn't so easy
 categories: vagrant virtualbox ubuntu 16.04
+published: true
 ---
+## Developing with Vagrant and Ubuntu 16.04
 
 When upgrading my Vagrant-run development environment to Ubuntu 16.04 (xenial) from 14.04 (trusty), I encountered a few vexing issues. Here's what I did to fix them.
 
@@ -24,5 +26,3 @@ Solution:
 {% highlight bash lineanchors %}
 export DEBIAN_FRONTEND=noninteractive apt-get -y -o DPkg::options::="--force-confdef" -o DPkg::options::="--force-confold" upgrade
 {% endhighlight %}
-
-
