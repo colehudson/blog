@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Vagrant and Ubuntu 16.04
-date: {2017-03-07}
+title: Developing with Vagrant and Ubuntu 16.04
 summary: Changing over to Ubuntu 16.04 in Vagrant isn't so easy
 categories: vagrant virtualbox ubuntu 16.04
 published: true
