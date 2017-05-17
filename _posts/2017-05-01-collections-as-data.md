@@ -1,4 +1,7 @@
 ---
+layout: post
+title: Using Digital Collections as Data
+summary: It's all about reducing barriers to access
 published: true
 ---
 ## Using Digital Collections as Data
