@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Varnish - Set Cache to Expire at Midnight
-date: {}
+date: {2017-03-03}
 summary: Setting a Varnish cache to expire at midnight
 categories: Varnish midnight cache expiration
 published: true
