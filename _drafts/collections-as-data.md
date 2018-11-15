@@ -1,6 +1,8 @@
 ---
-published: false
+title: Collections As Data
+date: 2017-05-01 00:00:00 Z
 ---
+
 ## Using Digital Collections as Data
 
 Collections as Data is a phrase bandied about the internet, and one that has recently grabbed our attention here at Wayne State. As far as I understand it, it means providing access to online digital library collections in a way that facilitates programmatic research. Here at Wayne State, we have been busy redesigning our digital collections platform, both its front-end display as well as the back-end data that powers the website (its API). In doing so, we couldn’t help but be a bit inspired by the collections as data movement and see if we could work toward tilting our collections to harness some of those concepts. 

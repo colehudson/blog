@@ -1,11 +1,15 @@
 ---
-layout: post
 title: Burning the Midnight Oil (with Web Caching)
-date: {2017-03-03}
+date: 2017-03-03 00:00:00 Z
+categories:
+- Varnish
+- midnight
+- cache
+- expiration
+layout: post
 summary: Setting a Varnish cache to expire at midnight
-categories: Varnish midnight cache expiration
-published: true
 ---
+
 ## Varnish - Set Cache to Expire at Midnight
 
 
